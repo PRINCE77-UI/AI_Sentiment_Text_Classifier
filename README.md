@@ -32,3 +32,7 @@ This project demonstrates a real-time **Applied AI & Text Classification System*
 ```text
 ├── index.html        # Main application structure, UI components, and embedded CSS/JS
 └── README.md         # Project documentation
+```
+## Output:
+<img width="1910" height="1625" alt="screencapture-127-0-0-1-5500-sentiment-classifier-html-2026-10-02-14_55_47" src="https://github.com/user-attachments/assets/23721641-6762-415d-9167-ebdb2d4a779e" />
+
